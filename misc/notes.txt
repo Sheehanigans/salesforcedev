@@ -1,0 +1,12 @@
+sfdx force:user:password:generate --targetusername test-lezaovjvamdx@example.com
+
+scratch
+
+Successfully created scratch org: 00D1F000000ZCQlUAO, username: test-lezaovjvamdx@example.com
+
+pass BmIec&9!(4^n%
+
+Scratch Start 
+
+sfdx force:org:open
+
