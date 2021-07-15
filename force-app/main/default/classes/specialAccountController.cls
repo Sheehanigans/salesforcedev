@@ -1,6 +1,6 @@
 public with sharing class specialAccountController {
 
-    public static createSpecialContactOnAccount(){
+    public static void createSpecialContactOnAccount(){
 
     }
 }
